@@ -10,7 +10,7 @@
  2. 面页编码最好使用utf-8;
  3. 为右向左语言的HTML添加dir属性;
  4. CSS中少用左右对齐. text-align:left/right;
- 5. CSS少用胜浮动定位loat属性;
+ 5. CSS慎用float;
 
 **rtl语言**  
 'ar', 'he', 'fa', 'ps', 'ur'
